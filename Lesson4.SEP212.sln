@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.SEP212", "Lesson4.SEP212\Lesson4.SEP212.csproj", "{79B45105-E133-4889-8882-9CFE1C07CABE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.Online.Pro", "KKB.Online\KKB.Online.Pro.csproj", "{43A18FE0-E34F-4CE8-A419-F38BBA7837AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.Online.BLL", "KKB.Online.BLL\KKB.Online.BLL.csproj", "{BC1B1A68-2FE8-465C-B3F6-48AC695CD9E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{79B45105-E133-4889-8882-9CFE1C07CABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B45105-E133-4889-8882-9CFE1C07CABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B45105-E133-4889-8882-9CFE1C07CABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A18FE0-E34F-4CE8-A419-F38BBA7837AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A18FE0-E34F-4CE8-A419-F38BBA7837AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A18FE0-E34F-4CE8-A419-F38BBA7837AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A18FE0-E34F-4CE8-A419-F38BBA7837AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1B1A68-2FE8-465C-B3F6-48AC695CD9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1B1A68-2FE8-465C-B3F6-48AC695CD9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1B1A68-2FE8-465C-B3F6-48AC695CD9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1B1A68-2FE8-465C-B3F6-48AC695CD9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
